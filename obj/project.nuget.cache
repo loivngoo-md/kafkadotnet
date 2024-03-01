@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "zwPKAqtb4FX1rt3y5UxOXD6TtuSK0GrQySWXEZdHfOiNVDS3qaNTM6GNC7vbi50DSiIc1xegbPGn3i8uW+2v/Q==",
+  "success": true,
+  "projectFilePath": "/home/mrn90/kafkadotnet/kafkadotnet.csproj",
+  "expectedPackageFiles": [
+    "/home/mrn90/.nuget/packages/confluent.kafka/2.3.0/confluent.kafka.2.3.0.nupkg.sha512",
+    "/home/mrn90/.nuget/packages/librdkafka.redist/2.3.0/librdkafka.redist.2.3.0.nupkg.sha512",
+    "/home/mrn90/.nuget/packages/microsoft.aspnetcore.openapi/7.0.16/microsoft.aspnetcore.openapi.7.0.16.nupkg.sha512",
+    "/home/mrn90/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/mrn90/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/mrn90/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/mrn90/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/mrn90/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/mrn90/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/home/mrn90/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

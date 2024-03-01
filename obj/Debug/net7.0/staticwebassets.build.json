@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jG7bxL80b+/DeGRhMkBELtZMVI3YfSROjybBb+RwipQ=",
+  "Source": "kafkadotnet",
+  "BasePath": "_content/kafkadotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

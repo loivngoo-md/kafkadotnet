@@ -1,0 +1,45 @@
+
+###
+POST http://127.0.0.1:5108/Email HTTP/1.1
+Content-Type: application/json
+
+{
+    "To": ["nguyendd.os@tpb.com.vn"],
+    "CC": ["toanch@tpb.com.vn"],
+    "Subject": "Ticket 4 successfully",
+    "Body": "Ticket 4 successfully."
+
+}
+
+
+###
+POST http://127.0.0.1:5108/Email HTTP/1.1
+Content-Type: application/json
+
+{
+    "To": ["nguyendd.os@tpb.com.vn"],
+    "CC": ["toanch@tpb.com.vn"],
+    "Subject": "Ticket 3 successfully",
+    "Body": "Ticket 3 successfully."
+
+}
+
+
+###
+POST http://127.0.0.1:5108/Email HTTP/1.1
+Content-Type: application/json
+
+{
+    "To": ["nguyendd.os@tpb.com.vn"],
+    "CC": ["toanch@tpb.com.vn"],
+    "Subject": "Ticket 5 successfully",
+    "Body": "Ticket 5 successfully."
+
+}
+
+
+###
+GET http://127.0.0.1:5108/Email HTTP/1.1
+
+###
+GET http://127.0.0.1:5108/Email/consume HTTP/1.1
